@@ -113,6 +113,37 @@ h2 {
   font-size: 22px;
   padding-right: 18px;
 }
+.action-call {
+  display: flex;
+  background-color: #3882f6;
+  border-radius: 5px;
+  margin: 100px;
+  justify-content: space-around;
+  padding: 30px;
+  padding-block: 45px;
+}
+.call {
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: 900;
+  margin: 0;
+  align-self: center;
+}
+.revolution {
+  margin: 4px;
+  color: #e5e7eb;
+}
+.action-call button {
+  align-self: center;
+  border: solid;
+  border-color: white;
+  font-size: 22px;
+  color: white;
+  border-radius: 25px;
+  background-color: #3882f6;
+  padding-inline: 25px;
+  padding-block: 10px;
+}
 .footer {
   background-color: rgb(31, 41, 55);
   display: flex;
